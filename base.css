@@ -36,6 +36,13 @@ h3 {
 
 }
 
+#artistName{
+    
+font-family: monospace;
+    color: #343148FF;
+    text-align: center;
+}
+
 #section1 {
 
     width: 850px;
